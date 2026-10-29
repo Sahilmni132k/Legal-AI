@@ -1,0 +1,16 @@
+SAMPLE SOFTWARE SERVICES AGREEMENT
+
+This synthetic sample is provided only to demonstrate LegalFlow AI. It is not a real contract and is not legal advice.
+
+1. FEES. Customer shall pay the fees listed in the order form within seven (7) calendar days. Provider may increase any fee at any time by posting the revised fee schedule on its website. Continued use of the Services constitutes acceptance of the new fees.
+
+2. CUSTOMER RESPONSIBILITY. Customer is responsible for all activity under its account and shall indemnify Provider against any and all claims, losses, damages, and expenses arising from Customer's use of the Services, whether or not caused by Provider.
+
+3. PROVIDER LIABILITY. Provider's total liability under this Agreement shall not exceed the fees paid by Customer during the one (1) month before the event giving rise to the claim. Provider shall not be liable for any indirect, incidental, special, or consequential damages.
+
+4. TERM AND TERMINATION. This Agreement continues until terminated. Provider may terminate this Agreement at any time without notice. Customer may terminate only by giving ninety (90) days' written notice. Fees already paid are non-refundable.
+
+5. DATA USE. Provider may use Customer Content to operate, improve, and train its products and may share Customer Content with its affiliates and service providers for any business purpose.
+
+6. GOVERNING LAW. The parties will determine the governing law after a dispute arises.
+
